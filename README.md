@@ -23,7 +23,7 @@ Property aggregators - aggregate real estate listings from property portals and 
 
 ## Social networks / web 2.0 platforms
 
-| Network / platform                  | Comment                                                               |
-| ----------------------------------- | --------------------------------------------------------------------- |
-| [Nextdoor](https://nextdoor.co.uk/) | Neighborhood network                                                  |
-| [Crystal Roof](https://)            | Location intelligence platform, with areas / postcodes review feature |
+| Network / platform                        | Comment                                                               |
+| ----------------------------------------- | --------------------------------------------------------------------- |
+| [Nextdoor](https://nextdoor.co.uk/)       | Neighborhood network                                                  |
+| [Crystal Roof](https://crystalroof.co.uk/) | Location intelligence platform, with areas / postcodes review feature |

@@ -8,8 +8,8 @@ Compilation of web services related to UK real estate sector.
 | ----------------------------------------------- | ----------------- | --------------------------- | ---------------------------------------- |
 | [Rightmove](https://www.rightmove.co.uk/)       | £304.9M (2021)    | 73.6M                       |
 | [Zoopla](https://www.rightmove.co.uk/)          | £317.3M (2018)    | 24.5M                       | Owned by ZPG Ltd. / Silver Lake Partners |
-| [OnTheMarket](https://www.onthemarket.com/)     | \$15.0M - \$25.0M | 11.2M                       | Owned by ZPG Ltd. / Silver Lake Partners |
-| [PrimeLocation](https://www.primelocation.com/) | \$10.0M - \$15.0M | 3.5M                        |
+| [OnTheMarket](https://www.onthemarket.com/)     | \$15.0M - \$25.0M | 11.2M                       | 
+| [PrimeLocation](https://www.primelocation.com/) | \$10.0M - \$15.0M | 3.5M                        | Owned by ZPG Ltd. / Silver Lake Partners |
 | [OpenRent](https://www.openrent.co.uk/)         | \$2.0M - \$5.0M   | 3.4M                        |
 
 ## Property aggregators
